@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Vivek Vardhan 👋
 
-<!--
-**vivekvardhan09/vivekvardhan09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Student at CMR Technical Campus**  
+🔎 Exploring the worlds of **Machine Learning** & **Data Science**  
+💻 Skilled in **C++** and **Python**  
+🏏 Cricket & 🎮 Video games enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+Aspiring techie passionate about leveraging data to solve real-world problems. I enjoy building my skills in machine learning and data science, with a strong foundation in C++ and Python. When I’m not coding, you’ll find me either on the cricket field or immersed in video games!
+
+---
+
+## 🚀 What I'm Learning
+
+- Machine Learning & Data Science fundamentals
+- Applying Python and C++ to real-world challenges
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/vivekvardhankalyanam)
+- 📧 Email: vivekvardhan4.kalyanam@gmail.com
+
+---
+
+> “Code. Learn. Play. Repeat.”
